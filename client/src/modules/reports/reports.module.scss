@@ -1,0 +1,17 @@
+.reports {
+  width: 100%;
+  font-size: 16px;
+
+  .reports-header {
+    padding: 12px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    font-size: 25px;
+
+    margin-bottom: 25px;
+  }
+}

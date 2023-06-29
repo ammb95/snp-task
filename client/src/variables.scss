@@ -1,0 +1,10 @@
+$app-width: 750px;
+$app-header-height: 100px;
+
+$header-items-height: 35px;
+
+:export {
+  appWidth: $app-width;
+  appHeaderHeight: $app-header-height;
+  headerItemsHeight: $header-items-height;
+}
