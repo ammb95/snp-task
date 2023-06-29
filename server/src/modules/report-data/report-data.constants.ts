@@ -1,0 +1,3 @@
+export const DEFAULT_NUMBER_OF_REPORT_DATA = 5;
+export const DEFAULT_REPORT_DATA_LENGTH = 5;
+export const MAX_DATA_VALUE = 25;
